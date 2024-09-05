@@ -11,7 +11,7 @@ Put these commands in your terminal
 3. Activate virtual environment: `source .venv/bin/activate`
 4. To install dependencies from requirements: `pip install -r requirements.txt`
    - Use command `pip list` whilst the virtual environment is activated to check that the dependencies are installed
-5. Whilst still in virtual environment use `python main.py` to start game.
+5. Whilst still in virtual environment use `python3 main.py` to start game.
 
 ## Other Commands
 
